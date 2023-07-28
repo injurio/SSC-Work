@@ -1,0 +1,29 @@
+WeakMonster:3
+Name:Goblin
+Description:Nasty low-grade monster, is very cunning
+Drop=SmallPotion
+Name:Slime
+Description:With body consisted mainly of water, it is very small and slow.
+Drop=MediumPotion
+Name:Zombie
+Description:Undead monster, walking slowly with roting fresh
+Drop=HighPotion
+Name:Skeleton
+Description:The walking bone, with sword in hand, walk around aimlessly.
+Drop=BronzeSword
+
+EliteMonster:1
+Name:Kobold
+Description:Dog-like monster, very aglie and strong
+Drop=IronSword
+
+Dragon:3
+Name:Dragon
+Description: Savage-creature at the apex of life
+Drop=DragonHeart
+Name:Leviathan
+Description: Ultimate water-creature, Is very powerful in itsown habitat
+Drop=DragonScale
+Name:Manticore
+Description: Horn-lion with wing, can breath fire
+Drop=DragonHorn
